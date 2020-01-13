@@ -1,2 +1,4 @@
 - **Web**
   - [Hostcam](hostcam.md)
+- **Lidar**
+  - [Display](display.md)
