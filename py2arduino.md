@@ -43,3 +43,5 @@ void loop() {
   + `data` raw data to send over serial
 + `wait_for_clear(self)`
   Wait for `CLEAR`
++ `clear` 
+  Clean up thread and serial
