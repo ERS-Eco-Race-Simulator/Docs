@@ -1,4 +1,5 @@
 - **Web**
   - [Hostcam](hostcam.md)
 - **Lidar**
+  - [Object Detection](objectdetection.md)
   - [Display](display.md)
