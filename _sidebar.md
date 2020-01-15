@@ -1,7 +1,11 @@
-- **Web**
-  - [Hostcam](hostcam.md)
-- **Lidar**
-  - [Object Detection](objectdetection.md)
-  - [Display](display.md)
-- **Arduino**
-  - [Py2Arduino](py2arduino.md)
+- [**Eco Race Simulator**](home.md)
+  - [How to use]()
+  - [Our team]()
+- [**Technologies we like to use**]()
+  - [**Web**]()
+    - [Hostcam](hostcam.md)
+  - [**Lidar**]()
+    - [Object Detection](objectdetection.md)
+    - [Display](display.md)
+  - [**Arduino**]()
+    - [Py2Arduino](py2arduino.md)
