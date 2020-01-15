@@ -1,6 +1,6 @@
 - [**Eco Race Simulator**](home.md)
   - [How to use]()
-  - [Our team]()
+  - [Our team](/ers/team.md)
 - [**Technologies we like to use**](tech.md)
   - [**Web**](web/web.md)
     - [Hostcam](web/hostcam.md)
