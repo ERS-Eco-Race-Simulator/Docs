@@ -33,7 +33,7 @@ for data in lidar.iter_measurements():
 ```
 + `ObjectDetector.update`
   Update data pool, return `True` if pool dim reached `DATA_MAX_LEN`
-+ `ObjectDetector.detect()`
++ `ObjectDetector.detect`
   Detect near object in given segments.
   Return a dict `{key: boolean}`, with a key for every segment. `boolean` is `True` if there are object in the segment, otherwise `False`
 
