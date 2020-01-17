@@ -1,5 +1,4 @@
 - [**Eco Race Simulator**](home.md)
-  - [How to use]()
   - [Our team](/ers/team.md)
 - [**Technologies we like to use**](tech.md)
   - [**Gyroscope**](gyro.md)
