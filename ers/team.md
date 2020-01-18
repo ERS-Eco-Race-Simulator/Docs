@@ -3,7 +3,7 @@ We are 5 students in the **fourth year** of technological high school. We study 
 
 ### Badoino Matteo
 + GitHub: [@BadoinoMatteo](https://github.com/BadoinoMatteo)
-+ eMail: `mateo.badoino@itiscuneo.eu`
++ eMail: `matteo.badoino@itiscuneo.eu`
 
 ### Francesco Bruno
 + GitHub: [@FraBrunoSchool](https://github.com/FraBrunoSchool)
@@ -11,7 +11,7 @@ We are 5 students in the **fourth year** of technological high school. We study 
 
 ### Gianluca Bernardi
 + GitHub: [@GianluBerna](https://github.com/GianluBerna)
-+ eMail: `gianluce.bernardi@itiscuneo.eu`
++ eMail: `gianluca.bernardi@itiscuneo.eu`
 
 ### Pietro Jomini
 + GitHub: [@PietroJomini](https://github.com/PietroJomini)
