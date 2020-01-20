@@ -16,7 +16,7 @@ UE's new plans set car's CO2 emissions to  95 g/km. It is the most severe limit 
 
 ### ERS 
 
-> We, as student, realized we can't change the state of art of tech and research, we can only hope to change people mind, how they see and use these tech.
+We, as student, realized we can't change the state of art of tech and research, we can only hope to change people mind, how they see and use these tech.
 
 The aim of our project is to raise awareness on the theme of ecology. We host real-word races, were the winner is fast and ecologically sustainable.
 
