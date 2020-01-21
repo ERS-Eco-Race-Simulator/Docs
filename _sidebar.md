@@ -1,6 +1,7 @@
 - [**Eco Race Simulator**](home.md)
   - [Our team](/ers/team.md)
   - [Our history](/ers/history.md)
+  - [Thanks](/ers/thanks.md)
 - [**Technologies we like to use**](tech.md)
   - [**Gyroscope**](gyro.md)
   - [**Web**](web/web.md)
