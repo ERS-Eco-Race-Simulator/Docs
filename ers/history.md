@@ -24,7 +24,7 @@ During our first team meeting, we opted for a [KISS](https://en.wikipedia.org/wi
 
 ### Fully-grown 
 
-We will then look for our favorite science: Mechanics. We will build our steering system and assemble our land Rover. We will then test it in various environment and build a beautiful UI around him.
+We will then look for our ["favorite"](https://en.wikipedia.org/wiki/Irony) science: Mechanics. We will build our steering system and assemble our land Rover. We will then test it in various environment and build a beautiful UI around him.
 
 This will be the time for competition: in April we will compete in [OR](https://www.olimpiadirobotica.it/), in Genoa, and hopefully make it to the final!
 
